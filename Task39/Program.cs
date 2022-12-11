@@ -12,7 +12,6 @@ for (int i = 0; i < dimension; i++)
 {
 array[i] = rnd.Next(1,9);
 }
-
 return array;
 }
 
@@ -47,3 +46,27 @@ Console.WriteLine("Ввели не число. Введите число");
 }
 return result;
 }
+
+//метод, который будет переворачивать массив
+int [] ReverseArray(int[] array)
+{
+int[] result = new int[array.Length];
+int count = 0;
+
+for (int i = array.Length - 1; i >= 0; i--)
+{
+result[count] = array[i];
+count++;
+}
+return result;
+}
+
+int dimension = GetNumberFromConsole("Введите размерность массива");
+int[] startArray = InitArray(dimension);
+PrintArray(startArray);
+int[] resultArray = ReverseArray(startArray);
+PrintArray(resultArray);
+
+//метод, который сразу переворачивает массив вместо строк сверху
+Array.Reverse(resultArray);
+PrintArray(resultArray);
