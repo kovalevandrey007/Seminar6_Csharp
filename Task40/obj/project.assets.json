@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/Andy-PC/Рабочий стол/Seminar6_Csharp/Task0/Task0.csproj",
+      "projectUniqueName": "/home/Andy-PC/Рабочий стол/Seminar6_Csharp/Task40/Task0.csproj",
       "projectName": "Task0",
-      "projectPath": "/home/Andy-PC/Рабочий стол/Seminar6_Csharp/Task0/Task0.csproj",
+      "projectPath": "/home/Andy-PC/Рабочий стол/Seminar6_Csharp/Task40/Task0.csproj",
       "packagesPath": "/home/Andy-PC/.nuget/packages/",
-      "outputPath": "/home/Andy-PC/Рабочий стол/Seminar6_Csharp/Task0/obj/",
+      "outputPath": "/home/Andy-PC/Рабочий стол/Seminar6_Csharp/Task40/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/Andy-PC/.nuget/NuGet/NuGet.Config"

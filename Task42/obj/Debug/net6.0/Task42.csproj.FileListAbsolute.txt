@@ -1,0 +1,15 @@
+/home/Andy-PC/Рабочий стол/Seminar6_Csharp/Task42/bin/Debug/net6.0/Task42
+/home/Andy-PC/Рабочий стол/Seminar6_Csharp/Task42/bin/Debug/net6.0/Task42.deps.json
+/home/Andy-PC/Рабочий стол/Seminar6_Csharp/Task42/bin/Debug/net6.0/Task42.runtimeconfig.json
+/home/Andy-PC/Рабочий стол/Seminar6_Csharp/Task42/bin/Debug/net6.0/Task42.dll
+/home/Andy-PC/Рабочий стол/Seminar6_Csharp/Task42/bin/Debug/net6.0/Task42.pdb
+/home/Andy-PC/Рабочий стол/Seminar6_Csharp/Task42/obj/Debug/net6.0/Task42.csproj.AssemblyReference.cache
+/home/Andy-PC/Рабочий стол/Seminar6_Csharp/Task42/obj/Debug/net6.0/Task42.GeneratedMSBuildEditorConfig.editorconfig
+/home/Andy-PC/Рабочий стол/Seminar6_Csharp/Task42/obj/Debug/net6.0/Task42.AssemblyInfoInputs.cache
+/home/Andy-PC/Рабочий стол/Seminar6_Csharp/Task42/obj/Debug/net6.0/Task42.AssemblyInfo.cs
+/home/Andy-PC/Рабочий стол/Seminar6_Csharp/Task42/obj/Debug/net6.0/Task42.csproj.CoreCompileInputs.cache
+/home/Andy-PC/Рабочий стол/Seminar6_Csharp/Task42/obj/Debug/net6.0/Task42.dll
+/home/Andy-PC/Рабочий стол/Seminar6_Csharp/Task42/obj/Debug/net6.0/refint/Task42.dll
+/home/Andy-PC/Рабочий стол/Seminar6_Csharp/Task42/obj/Debug/net6.0/Task42.pdb
+/home/Andy-PC/Рабочий стол/Seminar6_Csharp/Task42/obj/Debug/net6.0/Task42.genruntimeconfig.cache
+/home/Andy-PC/Рабочий стол/Seminar6_Csharp/Task42/obj/Debug/net6.0/ref/Task42.dll
